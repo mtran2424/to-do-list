@@ -22,6 +22,7 @@ How to Use
 Launch the app and create a new task by providing the fields being asked for (subject, name, due date) and clicking the "Add" button.
 View your tasks in the main container, where you can see the subject, task name, due date, and a checkbox.
 Mark tasks as completed by checking the box next to the task and clicking "Clear". This removes the task from the container.
+Upon clicking "Exit", the app will close and the progress of the list will be saved for the next time the app is opened.
 
 System Requirements
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
